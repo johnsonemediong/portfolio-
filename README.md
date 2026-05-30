@@ -1,7 +1,7 @@
 # portfolio-
 Executive Assistant | Virtual Assistant | Medical Billing &amp; Coding Professional | AI Productivity Enthusiast
-About Me
 
+About Me
 I am a detail-oriented Virtual Assistant and Medical Billing & Coding certified professional focused on supporting high-performing teams in fast-paced, remote environments.
 
 My strength lies in bringing structure to complexity — managing calendars, coordinating communication across stakeholders, and ensuring operational tasks are executed smoothly and on time.
@@ -15,8 +15,8 @@ Inbox and task management with strong attention to detail
 Cross-functional communication and follow-ups
 Process improvement and workflow organization
 AI-assisted productivity and documentation
-Experience Summary
 
+Experience Summary
 I have supported clients remotely as a Virtual Assistant, helping manage day-to-day administrative operations including scheduling, communication coordination, document preparation, and task tracking.
 
 I work with a proactive mindset — anticipating needs, resolving scheduling conflicts, and ensuring smooth execution of tasks in dynamic environments.
@@ -28,15 +28,15 @@ Notion
 Trello / Asana (task management)
 Zoom / Microsoft Teams
 ChatGPT / Claude (AI-assisted productivity)
-Education
 
+Education
 Ensign College
 Certificate in Medical Billing and Coding
 
 BYU Pathway Worldwide
 PathwayConnect Program
 
-Virtual Assistant
+Certificate in Virtual Assistant
 Alx_Africa
 
 What I Value
